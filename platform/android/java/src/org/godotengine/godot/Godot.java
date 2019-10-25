@@ -59,7 +59,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.Messenger;
 import android.provider.Settings.Secure;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.util.Log;
 import android.view.Display;
 import android.view.KeyEvent;
